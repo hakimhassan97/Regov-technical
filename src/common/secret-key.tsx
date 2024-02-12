@@ -1,0 +1,2 @@
+export const FIREBASE_API_KEY = "#FIREBASE_API_KEY"
+export const NINJAS_API_KEY = '#NINJAS_API_KEY';
